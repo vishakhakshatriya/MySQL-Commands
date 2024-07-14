@@ -1,0 +1,1 @@
+select FirstName,id from student
